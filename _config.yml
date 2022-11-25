@@ -13,7 +13,19 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Ücretsiz Evcil hayvan sahiplendirme uygulaması.
+app_description                           : Ücretsiz bir şekilde ilan oluşturarak, sokakta yaşayan, barınaklarda bakılan veya bakımını karşılayamadığınız dostlarınızı sahiplendirebileceğiniz bir platform.
+
+İLETİŞİME GEÇ
+
+Üyelik oluşturarak veya Google, Facebook hesaplarınızla giriş yapabilir ve ilan sahipleriyle iletişime geçebilirsiniz. İlan hakkında detaylı bilgiler alınabilir ve evcil dostunuzun size uygun olup olmadığı konusunda karar verebilirsiniz.
+
+HARİTA
+
+Sana yakın olan veterinerler, parklar ve barınakları görebilir ve telefonun varolan navigasyonuna yönlendirebilir, hızlıca ulaşabilirsiniz. Harita konum izninizi verdiğiniz sürece görülebilir şekilde çalışmaktadır.
+
+HİKAYE
+
+Sahiplendirilen dostları ve ayarlanacak organizasyonları hikayeler üzerinden görebilir ve takip edebilirsiniz.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
