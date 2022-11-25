@@ -16,15 +16,12 @@ app_price                                 :                                     
 app_description                           : Ücretsiz bir şekilde ilan oluşturarak, sokakta yaşayan, barınaklarda bakılan veya bakımını karşılayamadığınız dostlarınızı sahiplendirebileceğiniz bir platform.
 
 İLETİŞİME GEÇ
-
 Üyelik oluşturarak veya Google, Facebook hesaplarınızla giriş yapabilir ve ilan sahipleriyle iletişime geçebilirsiniz. İlan hakkında detaylı bilgiler alınabilir ve evcil dostunuzun size uygun olup olmadığı konusunda karar verebilirsiniz.
 
 HARİTA
-
 Sana yakın olan veterinerler, parklar ve barınakları görebilir ve telefonun varolan navigasyonuna yönlendirebilir, hızlıca ulaşabilirsiniz. Harita konum izninizi verdiğiniz sürece görülebilir şekilde çalışmaktadır.
 
 HİKAYE
-
 Sahiplendirilen dostları ve ayarlanacak organizasyonları hikayeler üzerinden görebilir ve takip edebilirsiniz.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
